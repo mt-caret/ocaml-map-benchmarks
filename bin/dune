@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_map_benchmarks)
+ (name main)
+ (libraries ocaml_map_benchmarks))
